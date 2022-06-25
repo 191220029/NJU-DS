@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Graph<int,int>::~Graph<int,int>(void)" (??1?$Graph@HH@@QAE@XZ)，函数 "public: __thiscall Graphmtx<int,int>::~Graphmtx<int,int>(void)" (??1?$Graphmtx@HH@@QAE@XZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Graphmtx<int,int>::Graphmtx<int,int>(int)" (??0?$Graphmtx@HH@@QAE@H@Z)，函数 "void __cdecl TopoSort_test(void)" (?TopoSort_test@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl TopologicalSort<int,int>(class Graph<int,int> &)" (??$TopologicalSort@HH@@YAXAAV?$Graph@HH@@@Z)，函数 "void __cdecl TopoSort_test(void)" (?TopoSort_test@@YAXXZ) 中引用了该符号
+E:\本科\数据结构\模板\图\Graph\Debug\Graph.exe : fatal error LNK1120: 3 个无法解析的外部命令

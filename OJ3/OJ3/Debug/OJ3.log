@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\本科\数据结构\OJ3\OJ3\main.cpp(77,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\本科\数据结构\OJ3\OJ3\main.cpp(137,21): warning C4244: “参数”: 从“__int64”转换到“const E”，可能丢失数据
+          with
+          [
+              E=int
+          ]
+E:\本科\数据结构\OJ3\OJ3\main.cpp(142,21): warning C4244: “参数”: 从“__int64”转换到“const E”，可能丢失数据
+          with
+          [
+              E=int
+          ]
+E:\本科\数据结构\OJ3\OJ3\main.cpp(147,21): warning C4244: “参数”: 从“__int64”转换到“const E”，可能丢失数据
+          with
+          [
+              E=int
+          ]
+E:\本科\数据结构\OJ3\OJ3\main.cpp(73): warning C4715: “scal”: 不是所有的控件路径都返回值
+E:\本科\数据结构\OJ3\OJ3\main.cpp(35): warning C4715: “stack<char>::pop”: 不是所有的控件路径都返回值
+E:\本科\数据结构\OJ3\OJ3\main.cpp(35): warning C4715: “stack<int>::pop”: 不是所有的控件路径都返回值
+E:\本科\数据结构\OJ3\OJ3\main.cpp(42): warning C4715: “stack<int>::peek”: 不是所有的控件路径都返回值
+E:\本科\数据结构\OJ3\OJ3\main.cpp(42): warning C4715: “stack<char>::peek”: 不是所有的控件路径都返回值
+  OJ3.vcxproj -> E:\本科\数据结构\OJ3\OJ3\Debug\OJ3.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyTopo", "MyTopo.vcxproj", "{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Debug|x64.ActiveCfg = Debug|x64
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Debug|x64.Build.0 = Debug|x64
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Debug|x86.Build.0 = Debug|Win32
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Release|x64.ActiveCfg = Release|x64
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Release|x64.Build.0 = Release|x64
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Release|x86.ActiveCfg = Release|Win32
+		{DA22C3F7-5AAD-46A1-9BF5-C96D8CEE0011}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A26623E6-8CD4-48FC-9B35-3560D675578E}
+	EndGlobalSection
+EndGlobal

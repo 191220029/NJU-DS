@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(9,13): error C2872: “size”: 不明确的符号
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(7,5): message : 可能是“int size”
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(9,13): message : 或  “size”
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(10,14): error C2872: “size”: 不明确的符号
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(7,5): message : 可能是“int size”
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(10,14): message : 或  “size”
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(45,2): error C2562: “pop”:“void”函数返回值
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(21): message : 参见“pop”的声明
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(61,4): error C3861: “insert”: 找不到标识符
+E:\本科\数据结构\竞赛2\竞赛2\main.cpp(69,12): error C3861: “del”: 找不到标识符
